@@ -7,5 +7,5 @@ All dependencies are included `environment.yml`:
      conda env create -f environment.yml.<bar> 
 
 ## Running codes
-Setp1：Data preprecessing.ipynb   
+Setp1：Data preprocessing.ipynb   
 Setp2：MetaComb.ipynb
